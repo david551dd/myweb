@@ -1,0 +1,12 @@
+body{
+   text-align: center;
+}
+.both{
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  display: inline;
+  font-size: 30px;
+  color: #dee3e2;
+  background-color: #2b2b2b;
+}
